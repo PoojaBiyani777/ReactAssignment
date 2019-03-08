@@ -1,0 +1,13 @@
+.header {
+    left: 0;
+    right: 0;
+    top: 0;
+    height: var(--app-header-height);
+    padding: 14px var(--app-header-control-h-gap);
+    display: flex;
+    position: fixed;
+    align-items: center;
+    justify-content: space-between;
+    box-shadow: 0 0 20px 0 rgba(0,0,0,.1);
+    z-index: var(--app-header-z-index);
+}

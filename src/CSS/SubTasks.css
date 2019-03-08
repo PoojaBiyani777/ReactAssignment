@@ -1,0 +1,16 @@
+.Today{
+  font-size: var(--h3-font-size);
+}
+
+.Tomorrow{
+  font-size: var(--h3-font-size);
+  color: red;
+}
+
+.Upcoming{
+  font-size: var(--h3-font-size);
+}
+
+.Someday{
+  font-size: var(--h3-font-size);
+}
